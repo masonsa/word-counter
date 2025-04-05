@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /dist/
 
 # Sitemap
 Sitemap: https://wordcounter.example.com/sitemap.xml
