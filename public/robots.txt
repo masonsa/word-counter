@@ -5,7 +5,7 @@ Disallow: /node_modules/
 Disallow: /dist/
 
 # Sitemap
-Sitemap: https://wordcounter.example.com/sitemap.xml
+Sitemap: https://word-counter-stats.netlify.app/sitemap.xml
 
 # Disallow admin and private areas
 Disallow: /admin/
